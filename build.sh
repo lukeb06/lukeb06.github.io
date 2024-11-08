@@ -1,3 +1,3 @@
 #!/bin/bash
 
-bun build src/main.ts --outdir .
+bun build src/main.tsx --outdir .
